@@ -1,0 +1,5 @@
+shapely==1.8.5.post1
+av2==0.2.1
+numba==0.48.0
+yapf==0.40.1
+protobuf==3.15.8
