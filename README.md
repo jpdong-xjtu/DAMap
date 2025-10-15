@@ -90,7 +90,7 @@ It is also greatly inspired by the following outstanding contributions to the op
 If you find MapTR is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```bibtex
 @inproceedings{DAMap,
-  title={DAMap: Structured Modeling and Learning for Online Vectorized HD Map Construction},
+  title={DAMap: Distance-aware MapNet for High Quality HD Map Construction},
   author={Dong, Jinpeng and Li, Chen and Lin, Yutong and Fu, Jingwen, and Zhou, Sanping and Zheng, Nanning},
   booktitle={International Conference on Computer Vision},
   year={2025}
