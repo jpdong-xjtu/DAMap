@@ -92,7 +92,7 @@ If you find MapTR is useful in your research or applications, please consider gi
 @inproceedings{DAMap,
   title={DAMap: Distance-aware MapNet for High Quality HD Map Construction},
   author={Dong, Jinpeng and Li, Chen and Lin, Yutong and Fu, Jingwen, and Zhou, Sanping and Zheng, Nanning},
-  booktitle={International Conference on Computer Vision},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   year={2025}
 }
 ```
