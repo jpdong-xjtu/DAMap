@@ -40,7 +40,7 @@ High-definition (HD) map is an important component to support navigation and pla
 
 | Method  | Backbone | Epoch  | mAP |                         Config                          |                                                                   Download                                                                   |
 |:-------:|:--------:|:-----:|:----:|:-------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-|  MapTRv2+DAMap  |   R50    |  24   |  62.8 | [config](projects/configs/mapqr/mapqr_nusc_r50_24ep.py) | [model](https://drive.google.com/file/d/1ybGeJbMFQwHYWBSBZzFsbpaeB1Ve5rsj/view?usp=sharing)/[log](https://drive.google.com/file/d/1WZcR9-1vuwovV2p0o8xLE7KQVn23gA0x/view?usp=sharing) |
+|  MapTRv2+DAMap  |   R50    |  24   |  62.8 | [config](projects/configs/damap/damap_tiny_r50_24ep.py) | [model](https://drive.google.com/file/d/1ybGeJbMFQwHYWBSBZzFsbpaeB1Ve5rsj/view?usp=sharing)/[log](https://drive.google.com/file/d/1WZcR9-1vuwovV2p0o8xLE7KQVn23gA0x/view?usp=sharing) |
 |  MapTRv2+HLS  |   R50    |  110  |  69.4 | config | [model](https://drive.google.com/file/d/1E5SojJzYdKihAMNAw3_K6gabNv1lew8z/view?usp=sharing)/[log](https://drive.google.com/file/d/1xlXV62v8Q9JCz3WYB6Xe4BqvZshFc9tB/view?usp=sharing) |
 |  Mask2Map+HLS  |   R50    |  24  |  72.6 | config | [model](https://drive.google.com/file/d/1LuxyFObekkB21AEP0AF5jJqYjHIM8iJZ/view?usp=sharing)/[log](https://drive.google.com/file/d/1OUhV6gPQknHKvO1r3YDH1__e5OGwK09c/view?usp=sharing) |
 
