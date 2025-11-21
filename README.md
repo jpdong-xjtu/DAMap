@@ -87,7 +87,7 @@ It is also greatly inspired by the following outstanding contributions to the op
 [GFocal](https://github.com/implus/GFocal).
 
 ## Citation
-If you find MapTR is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+If you find DAMap is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```bibtex
 @inproceedings{DAMap,
   title={DAMap: Distance-aware MapNet for High Quality HD Map Construction},
